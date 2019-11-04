@@ -5,7 +5,15 @@
       "weather_state_name": "Light Rain",
       "weather_state_abbr": "lr",
       "min_temp": 10.57,
-      "max_temp": 16.555
+      "max_temp": 16.555,
+      "job_id": 14997,
+      "job_name": "888 Broadway Site"
+      "name": "Jake Johnson",
+      "phone": "1-469-999-1212",
+      "street": "888 Broadway",
+      "city": "Frisco",
+      "state": "Texas",
+      "zip": "75033"
     }
   ]
 }
